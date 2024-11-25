@@ -36,7 +36,7 @@ With a strong foundation in **HTML/CSS/JavaScript** and **TypeScript**, as well 
   A donation system integrated with a pin pad to facilitate contributions.  
   *Tech Stack:* React, TypeScript, Node, Express, Postgres
 
-  - **Steve Madden Wheel of Fortune Experience (iGotcha Media)**  
+- **Steve Madden Wheel of Fortune Experience (iGotcha Media)**  
   A web-based game deployed on a touchscreen kiosk, engaging 2,500+ customers in three days.  
   *Tech Stack:* React, TypeScript, Node, Express, Postgres  
 
